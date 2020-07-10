@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/najibkr/golibs/lesson1/info"
+	"gihub.com/najibkr/golibs/lesson01/info"
 )
 
 func main() {
