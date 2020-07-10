@@ -1,4 +1,4 @@
-module github.com/najibkr/golibs/lesson1
+module github.com/najibkr/golibs/lesson01
 
 go 1.14
 
