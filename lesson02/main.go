@@ -1,6 +1,6 @@
 package main
 
-import "github.com/najibkr/golibs/lesson2/intro"
+import "github.com/najibkr/golibs/lesson02/intro"
 
 func main() {
 	intro.RunIntroduction()
