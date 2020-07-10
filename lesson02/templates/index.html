@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    {{if .}}<h1>Hello {{.}}</h1>{{end}}
+    {{if . }}<h1>What can I do for you, {{.}}?</h1>{{else}}
+    <H1>No User is Logged in Yet</H1>
+    {{end}}
+</body>
+</html>
